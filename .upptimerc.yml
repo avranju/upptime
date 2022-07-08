@@ -15,8 +15,8 @@ sites:
     url: https://toteupad.nerdworks.dev/device.html
   - name: Elections Lab
     url: https://elections.nerdworks.dev/lab
-  - name: ToteUp API
-    url: https://toteup.nerdworks.dev
+  # - name: ToteUp API
+  #  url: https://toteup.nerdworks.dev
   # - name: Yodlee Proxy
   #  url: https://yodlee-proxy.nerdworks.dev
 
