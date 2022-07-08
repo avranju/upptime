@@ -14,7 +14,7 @@ sites:
   - name: ToteUp AD Auth
     url: https://toteupad.nerdworks.dev/device.html
   - name: Elections Lab
-    url: https://elections.nerdworks.dev/lab\?
+    url: https://elections.nerdworks.dev/lab
   # - name: Yodlee Proxy
   #  url: https://yodlee-proxy.nerdworks.dev
 
