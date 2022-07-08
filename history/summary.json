@@ -95,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/elections.nerdworks.dev",
     "slug": "elections-lab",
     "status": "up",
-    "uptime": "3.01%",
-    "uptimeDay": "3.01%",
-    "uptimeWeek": "3.01%",
-    "uptimeMonth": "3.01%",
-    "uptimeYear": "3.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1572,
     "timeDay": 1572,
     "timeWeek": 1572,
     "timeMonth": 1572,
     "timeYear": 1572,
-    "dailyMinutesDown": {
-      "2022-07-08": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
