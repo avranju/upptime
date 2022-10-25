@@ -13,8 +13,8 @@ sites:
     url: https://remark42.nerdworks.dev/api/v1/config?site=remark
   - name: ToteUp AD Auth
     url: https://toteupad.nerdworks.dev/device.html
-  - name: Elections Lab
-    url: https://elections.nerdworks.dev/lab
+  # - name: Elections Lab
+  #  url: https://elections.nerdworks.dev/lab
   # - name: ToteUp API
   #  url: https://toteup.nerdworks.dev
   # - name: Yodlee Proxy
