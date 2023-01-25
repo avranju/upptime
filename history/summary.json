@@ -4,11 +4,11 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1306,
     "timeDay": 5275,
@@ -16,7 +16,7 @@
     "timeMonth": 1490,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2023-01-25": 10
+      "2023-01-25": 2
     }
   },
   {
@@ -26,18 +26,16 @@
     "slug": "thread-ripper",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 882,
     "timeDay": 788,
     "timeWeek": 779,
     "timeMonth": 888,
     "timeYear": 882,
-    "dailyMinutesDown": {
-      "2023-01-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Musings Blog",
@@ -64,18 +62,16 @@
     "slug": "remark42-comments-on-musings-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 821,
     "timeDay": 752,
     "timeWeek": 771,
     "timeMonth": 774,
     "timeYear": 821,
-    "dailyMinutesDown": {
-      "2023-01-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ToteUp AD Auth",
@@ -83,18 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/toteupad.nerdworks.dev.ico",
     "slug": "tote-up-ad-auth",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 854,
     "timeDay": 799,
     "timeWeek": 785,
     "timeMonth": 811,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2023-01-25": 8,
       "2022-07-08": 43
     }
   }
