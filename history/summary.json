@@ -4,19 +4,19 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1306,
-    "timeDay": 5275,
-    "timeWeek": 2447,
-    "timeMonth": 1490,
-    "timeYear": 1306,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1304,
+    "timeDay": 4203,
+    "timeWeek": 2301,
+    "timeMonth": 1475,
+    "timeYear": 1304,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 15
     }
   },
   {
