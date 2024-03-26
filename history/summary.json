@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1063,
-    "timeDay": 1338,
-    "timeWeek": 1125,
-    "timeMonth": 1084,
-    "timeYear": 1017,
+    "timeDay": 1410,
+    "timeWeek": 1139,
+    "timeMonth": 1086,
+    "timeYear": 1018,
     "dailyMinutesDown": {
-      "2024-03-25": 9,
       "2023-07-26": 29
     }
   },
@@ -27,18 +26,16 @@
     "slug": "thread-ripper",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 810,
-    "timeDay": 849,
-    "timeWeek": 831,
-    "timeMonth": 830,
+    "time": 811,
+    "timeDay": 958,
+    "timeWeek": 851,
+    "timeMonth": 834,
     "timeYear": 805,
-    "dailyMinutesDown": {
-      "2024-03-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Musings Blog",
@@ -52,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 199,
-    "timeWeek": 211,
-    "timeMonth": 214,
+    "timeDay": 306,
+    "timeWeek": 237,
+    "timeMonth": 217,
     "timeYear": 240,
     "dailyMinutesDown": {}
   },
@@ -65,18 +62,16 @@
     "slug": "remark42-comments-on-musings-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 846,
-    "timeWeek": 802,
-    "timeMonth": 811,
-    "timeYear": 794,
-    "dailyMinutesDown": {
-      "2024-03-25": 9
-    }
+    "timeDay": 907,
+    "timeWeek": 821,
+    "timeMonth": 816,
+    "timeYear": 795,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ToteUp AD Auth",
@@ -84,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/toteupad.nerdworks.dev.ico",
     "slug": "tote-up-ad-auth",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 842,
-    "timeWeek": 819,
-    "timeMonth": 811,
+    "time": 789,
+    "timeDay": 906,
+    "timeWeek": 838,
+    "timeMonth": 815,
     "timeYear": 779,
-    "dailyMinutesDown": {
-      "2024-03-25": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
