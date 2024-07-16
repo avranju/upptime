@@ -78,19 +78,19 @@
     "url": "https://toteupad.nerdworks.dev/device.html",
     "icon": "https://icons.duckduckgo.com/ip3/toteupad.nerdworks.dev.ico",
     "slug": "tote-up-ad-auth",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 787,
-    "timeDay": 809,
-    "timeWeek": 858,
-    "timeMonth": 821,
-    "timeYear": 782,
+    "timeDay": 776,
+    "timeWeek": 843,
+    "timeMonth": 819,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2024-07-16": 0
+      "2024-07-16": 9
     }
   }
 ]
