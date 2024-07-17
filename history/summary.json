@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1040,
-    "timeDay": 1104,
-    "timeWeek": 1098,
-    "timeMonth": 1058,
+    "timeDay": 1001,
+    "timeWeek": 1069,
+    "timeMonth": 1057,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-07-26": 29
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 810,
-    "timeDay": 793,
-    "timeWeek": 878,
-    "timeMonth": 832,
-    "timeYear": 799,
+    "timeDay": 821,
+    "timeWeek": 865,
+    "timeMonth": 834,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 166,
-    "timeWeek": 304,
-    "timeMonth": 223,
+    "timeDay": 232,
+    "timeWeek": 275,
+    "timeMonth": 226,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 807,
-    "timeDay": 820,
-    "timeWeek": 837,
+    "timeDay": 817,
+    "timeWeek": 836,
     "timeMonth": 821,
-    "timeYear": 798,
+    "timeYear": 799,
     "dailyMinutesDown": {}
   },
   {
@@ -80,17 +80,15 @@
     "slug": "tote-up-ad-auth",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 787,
-    "timeDay": 776,
-    "timeWeek": 843,
-    "timeMonth": 819,
-    "timeYear": 781,
-    "dailyMinutesDown": {
-      "2024-07-16": 9
-    }
+    "timeDay": 785,
+    "timeWeek": 831,
+    "timeMonth": 821,
+    "timeYear": 782,
+    "dailyMinutesDown": {}
   }
 ]
