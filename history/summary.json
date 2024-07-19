@@ -13,7 +13,7 @@
     "time": 1040,
     "timeDay": 1069,
     "timeWeek": 1074,
-    "timeMonth": 1059,
+    "timeMonth": 1058,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-07-26": 29
@@ -33,7 +33,7 @@
     "time": 811,
     "timeDay": 896,
     "timeWeek": 876,
-    "timeMonth": 841,
+    "timeMonth": 838,
     "timeYear": 800,
     "dailyMinutesDown": {}
   },
@@ -44,18 +44,16 @@
     "slug": "musings-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 213,
     "timeWeek": 257,
-    "timeMonth": 232,
+    "timeMonth": 231,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2024-07-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Remark42 Comments on Musings Blog",
@@ -71,7 +69,7 @@
     "time": 808,
     "timeDay": 802,
     "timeWeek": 847,
-    "timeMonth": 824,
+    "timeMonth": 822,
     "timeYear": 799,
     "dailyMinutesDown": {}
   },
@@ -89,7 +87,7 @@
     "time": 787,
     "timeDay": 777,
     "timeWeek": 840,
-    "timeMonth": 823,
+    "timeMonth": 820,
     "timeYear": 782,
     "dailyMinutesDown": {}
   }
