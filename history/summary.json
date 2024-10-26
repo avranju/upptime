@@ -4,9 +4,9 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,29 @@
     "timeWeek": 1001,
     "timeMonth": 987,
     "timeYear": 1053,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-26": 0
+    }
   },
   {
     "name": "Thread Ripper",
     "url": "https://threadripper.nerdworks.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/threadripper.nerdworks.dev.ico",
     "slug": "thread-ripper",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 801,
-    "timeDay": 878,
-    "timeWeek": 805,
-    "timeMonth": 783,
+    "timeDay": 888,
+    "timeWeek": 817,
+    "timeMonth": 786,
     "timeYear": 805,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-26": 0
+    }
   },
   {
     "name": "Musings Blog",
