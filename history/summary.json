@@ -4,19 +4,19 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1045,
-    "timeDay": 1135,
-    "timeWeek": 1001,
-    "timeMonth": 987,
+    "timeDay": 1074,
+    "timeWeek": 1002,
+    "timeMonth": 988,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-26": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://threadripper.nerdworks.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/threadripper.nerdworks.dev.ico",
     "slug": "thread-ripper",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 888,
-    "timeWeek": 817,
-    "timeMonth": 786,
+    "time": 802,
+    "timeDay": 862,
+    "timeWeek": 816,
+    "timeMonth": 787,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-26": 7
     }
   },
   {
