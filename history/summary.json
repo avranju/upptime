@@ -4,18 +4,20 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 991,
-    "timeWeek": 1003,
-    "timeMonth": 1022,
-    "timeYear": 1042,
-    "dailyMinutesDown": {}
+    "time": 1043,
+    "timeDay": 1172,
+    "timeWeek": 1047,
+    "timeMonth": 1032,
+    "timeYear": 1043,
+    "dailyMinutesDown": {
+      "2025-05-03": 0
+    }
   },
   {
     "name": "Thread Ripper",
