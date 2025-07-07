@@ -15,14 +15,10 @@ sites:
     url: https://n8n.nerdworks.dev
   - name: Nerdworks Convex API Prod
     url: https://convex.api.nerdworks.dev
-  - name: Nerdworks Convex Actions Prod
-    url: https://convex.actions.nerdworks.dev
   - name: Nerdworks Convex Dashboard Prod
     url: https://convex.dashboard.nerdworks.dev
   - name: Nerdworks Convex API Dev
     url: https://dev.convex.api.nerdworks.dev
-  - name: Nerdworks Convex Actions Dev
-    url: https://dev.convex.actions.nerdworks.dev
   - name: Nerdworks Convex Dashboard Dev
     url: https://dev.convex.dashboard.nerdworks.dev
   - name: Court Capo
