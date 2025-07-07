@@ -5,8 +5,32 @@ repo: upptime # The name of this repository
 sites:
   - name: Nerdworks Blog
     url: https://blogorama.nerdworks.in
-  - name: Thread Ripper
-    url: https://threadripper.nerdworks.dev/
+  - name: Back To The Garden
+    url: https://backtothegarden.in
+  - name: Nerdworks AI
+    url: https://ai.nerdworks.dev
+  - name: Nerdworks LiteLLM
+    url: https://litellm.nerdworks.dev
+  - name: Nerdworks N8N
+    url: https://n8n.nerdworks.dev
+  - name: Nerdworks Convex API Prod
+    url: https://convex.api.nerdworks.dev
+  - name: Nerdworks Convex Actions Prod
+    url: https://convex.actions.nerdworks.dev
+  - name: Nerdworks Convex Dashboard Prod
+    url: https://convex.dashboard.nerdworks.dev
+  - name: Nerdworks Convex API Dev
+    url: https://dev.convex.api.nerdworks.dev
+  - name: Nerdworks Convex Actions Dev
+    url: https://dev.convex.actions.nerdworks.dev
+  - name: Nerdworks Convex Dashboard Dev
+    url: https://dev.convex.dashboard.nerdworks.dev
+  - name: Court Capo
+    url: https://courtcapo.nerdworks.dev
+  - name: Nerdworks Search
+    url: https://search.nerdworks.dev
+  - name: Nerdworks Writebook
+    url: https://writebook.nerdworks.dev
   - name: Musings Blog
     url: https://musings.nerdworks.dev/
   - name: Remark42 Comments on Musings Blog
