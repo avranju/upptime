@@ -94,45 +94,49 @@
     "url": "https://convex.api.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/convex.api.nerdworks.dev.ico",
     "slug": "nerdworks-convex-api-prod",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 802,
     "timeDay": 805,
     "timeWeek": 802,
     "timeMonth": 802,
     "timeYear": 802,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Nerdworks Convex Dashboard Prod",
     "url": "https://convex.dashboard.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/convex.dashboard.nerdworks.dev.ico",
     "slug": "nerdworks-convex-dashboard-prod",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 792,
     "timeDay": 765,
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Nerdworks Convex API Dev",
     "url": "https://dev.convex.api.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dev.convex.api.nerdworks.dev.ico",
     "slug": "nerdworks-convex-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,16 +145,18 @@
     "timeWeek": 744,
     "timeMonth": 744,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Nerdworks Convex Dashboard Dev",
     "url": "https://dev.convex.dashboard.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dev.convex.dashboard.nerdworks.dev.ico",
     "slug": "nerdworks-convex-dashboard-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,16 +165,18 @@
     "timeWeek": 768,
     "timeMonth": 768,
     "timeYear": 768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Court Capo",
     "url": "https://courtcapo.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/courtcapo.nerdworks.dev.ico",
     "slug": "court-capo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,16 +185,18 @@
     "timeWeek": 786,
     "timeMonth": 786,
     "timeYear": 786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Nerdworks Search",
     "url": "https://search.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/search.nerdworks.dev.ico",
     "slug": "nerdworks-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,16 +205,18 @@
     "timeWeek": 776,
     "timeMonth": 776,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Nerdworks Writebook",
     "url": "https://writebook.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/writebook.nerdworks.dev.ico",
     "slug": "nerdworks-writebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +225,9 @@
     "timeWeek": 974,
     "timeMonth": 974,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Musings Blog",
