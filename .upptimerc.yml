@@ -25,6 +25,8 @@ sites:
     url: https://courtcapo.nerdworks.dev
   - name: Nerdworks Search
     url: https://search.nerdworks.dev
+  - name: Nerdworks Gists
+    url: https://gist.nerdworks.dev/
   - name: Nerdworks Writebook
     url: https://writebook.nerdworks.dev
   - name: Musings Blog
