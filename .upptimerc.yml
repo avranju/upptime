@@ -27,6 +27,8 @@ sites:
     url: https://search.nerdworks.dev
   - name: Nerdworks Gists
     url: https://gist.nerdworks.dev/
+  - name: Nerdworks Gitea
+    url: https://git.nerdworks.dev/
   - name: Nerdworks Writebook
     url: https://writebook.nerdworks.dev
   - name: Musings Blog
