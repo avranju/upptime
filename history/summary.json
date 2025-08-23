@@ -40,18 +40,20 @@
     "url": "https://ai.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ai.nerdworks.dev.ico",
     "slug": "nerdworks-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 814,
-    "timeDay": 799,
-    "timeWeek": 848,
+    "timeDay": 810,
+    "timeWeek": 845,
     "timeMonth": 824,
     "timeYear": 814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   },
   {
     "name": "Nerdworks LiteLLM",
