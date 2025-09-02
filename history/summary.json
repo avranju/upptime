@@ -4,28 +4,30 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1041,
     "timeDay": 1025,
     "timeWeek": 998,
     "timeMonth": 1027,
     "timeYear": 1019,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 2
+    }
   },
   {
     "name": "Back To The Garden",
     "url": "https://backtothegarden.in",
     "icon": "https://icons.duckduckgo.com/ip3/backtothegarden.in.ico",
     "slug": "back-to-the-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1031,
@@ -33,17 +35,19 @@
     "timeWeek": 1050,
     "timeMonth": 1032,
     "timeYear": 1031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 2
+    }
   },
   {
     "name": "Nerdworks AI",
     "url": "https://ai.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ai.nerdworks.dev.ico",
     "slug": "nerdworks-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 814,
@@ -52,6 +56,7 @@
     "timeMonth": 827,
     "timeYear": 814,
     "dailyMinutesDown": {
+      "2025-09-02": 1,
       "2025-08-23": 16
     }
   },
@@ -60,10 +65,10 @@
     "url": "https://litellm.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/litellm.nerdworks.dev.ico",
     "slug": "nerdworks-lite-llm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 787,
@@ -71,7 +76,9 @@
     "timeWeek": 793,
     "timeMonth": 791,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 1
+    }
   },
   {
     "name": "Nerdworks N8N",
@@ -246,18 +253,19 @@
     "url": "https://writebook.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/writebook.nerdworks.dev.ico",
     "slug": "nerdworks-writebook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 984,
-    "timeDay": 946,
-    "timeWeek": 982,
-    "timeMonth": 981,
-    "timeYear": 984,
+    "time": 1027,
+    "timeDay": 2337,
+    "timeWeek": 1325,
+    "timeMonth": 1067,
+    "timeYear": 1027,
     "dailyMinutesDown": {
+      "2025-09-02": 0,
       "2025-07-11": 14
     }
   },
