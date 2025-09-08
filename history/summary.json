@@ -6,18 +6,16 @@
     "slug": "nerdworks-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1031,
     "timeDay": 1062,
     "timeWeek": 1042,
     "timeMonth": 1030,
     "timeYear": 1017,
-    "dailyMinutesDown": {
-      "2025-09-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Back To The Garden",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/backtothegarden.in.ico",
     "slug": "back-to-the-garden",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1038,
     "timeDay": 1092,
     "timeWeek": 1104,
     "timeMonth": 1043,
     "timeYear": 1038,
-    "dailyMinutesDown": {
-      "2025-09-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nerdworks AI",
@@ -46,9 +42,9 @@
     "slug": "nerdworks-ai",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 817,
     "timeDay": 855,
@@ -56,7 +52,6 @@
     "timeMonth": 818,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-09-07": 6,
       "2025-08-23": 16
     }
   },
