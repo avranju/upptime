@@ -22,18 +22,20 @@
     "url": "https://backtothegarden.in",
     "icon": "https://icons.duckduckgo.com/ip3/backtothegarden.in.ico",
     "slug": "back-to-the-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 1148,
-    "timeWeek": 1133,
-    "timeMonth": 1141,
-    "timeYear": 1069,
-    "dailyMinutesDown": {}
+    "time": 1066,
+    "timeDay": 990,
+    "timeWeek": 1095,
+    "timeMonth": 1131,
+    "timeYear": 1066,
+    "dailyMinutesDown": {
+      "2025-10-08": 0
+    }
   },
   {
     "name": "Nerdworks AI",
@@ -78,18 +80,20 @@
     "url": "https://n8n.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.nerdworks.dev.ico",
     "slug": "nerdworks-n8-n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 812,
-    "timeDay": 845,
-    "timeWeek": 851,
-    "timeMonth": 863,
+    "timeDay": 842,
+    "timeWeek": 850,
+    "timeMonth": 862,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-08": 0
+    }
   },
   {
     "name": "Nerdworks Convex API Prod",
