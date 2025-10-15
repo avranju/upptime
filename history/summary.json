@@ -4,10 +4,10 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1033,
@@ -15,17 +15,19 @@
     "timeWeek": 1109,
     "timeMonth": 1109,
     "timeYear": 1031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-15": 2
+    }
   },
   {
     "name": "Back To The Garden",
     "url": "https://backtothegarden.in",
     "icon": "https://icons.duckduckgo.com/ip3/backtothegarden.in.ico",
     "slug": "back-to-the-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1073,
@@ -33,17 +35,19 @@
     "timeWeek": 1128,
     "timeMonth": 1129,
     "timeYear": 1073,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-15": 2
+    }
   },
   {
     "name": "Nerdworks AI",
     "url": "https://ai.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ai.nerdworks.dev.ico",
     "slug": "nerdworks-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 845,
@@ -52,6 +56,7 @@
     "timeMonth": 899,
     "timeYear": 845,
     "dailyMinutesDown": {
+      "2025-10-15": 1,
       "2025-08-23": 16
     }
   },
@@ -60,10 +65,10 @@
     "url": "https://litellm.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/litellm.nerdworks.dev.ico",
     "slug": "nerdworks-lite-llm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 815,
@@ -71,7 +76,9 @@
     "timeWeek": 852,
     "timeMonth": 856,
     "timeYear": 815,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-15": 1
+    }
   },
   {
     "name": "Nerdworks N8N",
