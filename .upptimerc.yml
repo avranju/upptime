@@ -29,6 +29,8 @@ sites:
     url: https://gist.nerdworks.dev/
   - name: Nerdworks Gitea
     url: https://git.nerdworks.dev/
+  - name: Nerdworks pgadmin4
+    url: https://pgadmin4.nerdworks.dev
   - name: Nerdworks Writebook
     url: https://writebook.nerdworks.dev
   - name: Musings Blog
