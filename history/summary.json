@@ -157,9 +157,9 @@
     "url": "https://dev.convex.dashboard.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dev.convex.dashboard.nerdworks.dev.ico",
     "slug": "nerdworks-convex-dashboard-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -169,6 +169,7 @@
     "timeMonth": 780,
     "timeYear": 804,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-09-23": 81,
       "2025-07-11": 14
     }
@@ -178,9 +179,9 @@
     "url": "https://courtcapo.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/courtcapo.nerdworks.dev.ico",
     "slug": "court-capo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -189,16 +190,18 @@
     "timeWeek": 751,
     "timeMonth": 766,
     "timeYear": 794,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Nerdworks Search",
     "url": "https://search.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/search.nerdworks.dev.ico",
     "slug": "nerdworks-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -208,6 +211,7 @@
     "timeMonth": 778,
     "timeYear": 792,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-07-11": 14
     }
   },
@@ -271,18 +275,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/writebook.nerdworks.dev.ico",
     "slug": "nerdworks-writebook",
     "status": "up",
-    "uptime": "94.83%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "77.23%",
-    "uptimeYear": "94.83%",
+    "uptime": "94.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "77.26%",
+    "uptimeYear": "94.84%",
     "time": 1290,
     "timeDay": 1898,
     "timeWeek": 1296,
     "timeMonth": 1821,
     "timeYear": 1290,
     "dailyMinutesDown": {
-      "2025-11-18": 12,
       "2025-11-10": 53,
       "2025-11-09": 476,
       "2025-11-08": 1440,
