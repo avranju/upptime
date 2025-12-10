@@ -4,18 +4,20 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1032,
     "timeDay": 1169,
     "timeWeek": 1051,
     "timeMonth": 1026,
     "timeYear": 1034,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-10": 3
+    }
   },
   {
     "name": "Back To The Garden",
@@ -283,15 +285,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/writebook.nerdworks.dev.ico",
     "slug": "nerdworks-writebook",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "95.54%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "95.56%",
     "time": 1302,
     "timeDay": 1278,
     "timeWeek": 1249,
-    "timeMonth": 1441,
+    "timeMonth": 1334,
     "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-11-30": 31,
@@ -333,11 +335,11 @@
     "url": "https://remark42.nerdworks.dev/api/v1/config?site=remark",
     "icon": "https://icons.duckduckgo.com/ip3/remark42.nerdworks.dev.ico",
     "slug": "remark42-comments-on-musings-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 788,
     "timeDay": 929,
@@ -345,6 +347,7 @@
     "timeMonth": 779,
     "timeYear": 787,
     "dailyMinutesDown": {
+      "2025-12-10": 2,
       "2025-11-30": 31
     }
   },
@@ -353,18 +356,19 @@
     "url": "https://toteupad.nerdworks.dev/device.html",
     "icon": "https://icons.duckduckgo.com/ip3/toteupad.nerdworks.dev.ico",
     "slug": "tote-up-ad-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 785,
+    "time": 784,
     "timeDay": 893,
     "timeWeek": 868,
     "timeMonth": 794,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2025-12-10": 0,
       "2025-11-30": 24
     }
   }
