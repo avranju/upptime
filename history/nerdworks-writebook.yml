@@ -1,7 +1,7 @@
 url: https://writebook.nerdworks.dev
-status: up
-code: 200
-responseTime: 1556
-lastUpdated: 2025-12-13T19:17:18.805Z
+status: down
+code: 502
+responseTime: 4255
+lastUpdated: 2025-12-13T22:08:32.827Z
 startTime: 2025-07-07T04:23:41.156Z
 generator: Upptime <https://github.com/upptime/upptime>
