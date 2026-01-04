@@ -82,10 +82,10 @@
     "url": "https://n8n.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.nerdworks.dev.ico",
     "slug": "nerdworks-n8-n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 858,
@@ -93,7 +93,9 @@
     "timeWeek": 905,
     "timeMonth": 928,
     "timeYear": 858,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-04": 1
+    }
   },
   {
     "name": "Nerdworks Convex API Prod",
@@ -285,11 +287,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/writebook.nerdworks.dev.ico",
     "slug": "nerdworks-writebook",
     "status": "up",
-    "uptime": "96.16%",
+    "uptime": "96.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.16%",
+    "uptimeYear": "96.17%",
     "time": 1336,
     "timeDay": 1233,
     "timeWeek": 1119,
