@@ -82,19 +82,19 @@
     "url": "https://n8n.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.nerdworks.dev.ico",
     "slug": "nerdworks-n8-n",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 954,
-    "timeWeek": 905,
-    "timeMonth": 928,
-    "timeYear": 858,
+    "time": 902,
+    "timeDay": 5106,
+    "timeWeek": 1949,
+    "timeMonth": 1189,
+    "timeYear": 902,
     "dailyMinutesDown": {
-      "2026-01-04": 1
+      "2026-01-04": 6
     }
   },
   {
