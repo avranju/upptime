@@ -1,7 +1,7 @@
 url: https://remark42.nerdworks.dev/api/v1/config?site=remark
-status: up
-code: 200
-responseTime: 944
-lastUpdated: 2026-01-18T23:02:06.114Z
+status: down
+code: 523
+responseTime: 366
+lastUpdated: 2026-01-19T16:00:59.768Z
 startTime: 2022-07-08T09:35:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
