@@ -1,7 +1,7 @@
 url: https://ai.nerdworks.dev
-status: up
-code: 200
-responseTime: 1050
-lastUpdated: 2026-02-23T07:16:27.642Z
+status: down
+code: 502
+responseTime: 1000
+lastUpdated: 2026-02-23T16:04:24.717Z
 startTime: 2025-07-07T04:23:23.974Z
 generator: Upptime <https://github.com/upptime/upptime>
