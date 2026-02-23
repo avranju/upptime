@@ -39,6 +39,8 @@ sites:
     url: https://remark42.nerdworks.dev/api/v1/config?site=remark
   - name: ToteUp AD Auth
     url: https://toteupad.nerdworks.dev/device.html
+  - name: Nerdworks Testv6
+    url: https://testv6.nerdworks.dev
   # - name: Elections Lab
   #  url: https://elections.nerdworks.dev/lab
   # - name: ToteUp API
