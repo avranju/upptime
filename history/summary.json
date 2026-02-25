@@ -390,19 +390,19 @@
     "url": "https://testv6.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/testv6.nerdworks.dev.ico",
     "slug": "nerdworks-testv6",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 5821,
-    "timeDay": 10300,
-    "timeWeek": 5821,
-    "timeMonth": 5821,
-    "timeYear": 5821,
+    "status": "up",
+    "uptime": "98.32%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
+    "time": 4874,
+    "timeDay": 7228,
+    "timeWeek": 4874,
+    "timeMonth": 4874,
+    "timeYear": 4874,
     "dailyMinutesDown": {
-      "2026-02-25": 0
+      "2026-02-25": 55
     }
   }
 ]
