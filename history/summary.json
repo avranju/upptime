@@ -256,19 +256,19 @@
     "url": "https://git.nerdworks.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/git.nerdworks.dev.ico",
     "slug": "nerdworks-gitea",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1207,
-    "timeDay": 1636,
-    "timeWeek": 1456,
-    "timeMonth": 1403,
-    "timeYear": 1207,
+    "time": 1209,
+    "timeDay": 1589,
+    "timeWeek": 1467,
+    "timeMonth": 1407,
+    "timeYear": 1209,
     "dailyMinutesDown": {
-      "2026-03-11": 1
+      "2026-03-11": 14
     }
   },
   {
