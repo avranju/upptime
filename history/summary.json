@@ -443,17 +443,17 @@
     "url": "https://testv6.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/testv6.nerdworks.dev.ico",
     "slug": "nerdworks-testv6",
-    "status": "up",
+    "status": "down",
     "uptime": "95.14%",
-    "uptimeDay": "97.00%",
+    "uptimeDay": "96.95%",
     "uptimeWeek": "95.64%",
     "uptimeMonth": "97.20%",
     "uptimeYear": "95.14%",
-    "time": 3803,
-    "timeDay": 7321,
-    "timeWeek": 6141,
-    "timeMonth": 4184,
-    "timeYear": 3803,
+    "time": 3912,
+    "timeDay": 10428,
+    "timeWeek": 7275,
+    "timeMonth": 4496,
+    "timeYear": 3912,
     "dailyMinutesDown": {
       "2026-02-25": 55,
       "2026-03-01": 1051,
@@ -477,7 +477,8 @@
       "2026-05-21": 31,
       "2026-06-04": 337,
       "2026-06-03": 59,
-      "2026-06-06": 43
+      "2026-06-06": 43,
+      "2026-06-07": 1
     }
   }
 ]
