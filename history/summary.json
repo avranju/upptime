@@ -4,11 +4,11 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1103,
     "timeDay": 1051,
@@ -19,7 +19,8 @@
       "2025-12-10": 26,
       "2026-03-25": 34,
       "2026-04-20": 24,
-      "2026-04-22": 25
+      "2026-04-22": 25,
+      "2026-07-09": 19
     }
   },
   {
@@ -171,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.convex.api.nerdworks.dev.ico",
     "slug": "nerdworks-convex-api-dev",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
@@ -403,12 +404,12 @@
     "url": "https://remark42.nerdworks.dev/api/v1/config?site=remark",
     "icon": "https://icons.duckduckgo.com/ip3/remark42.nerdworks.dev.ico",
     "slug": "remark42-comments-on-musings-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 824,
     "timeDay": 745,
     "timeWeek": 834,
@@ -417,7 +418,8 @@
     "dailyMinutesDown": {
       "2025-11-30": 31,
       "2025-12-10": 24,
-      "2026-03-29": 15
+      "2026-03-29": 15,
+      "2026-07-09": 10
     }
   },
   {
@@ -425,10 +427,10 @@
     "url": "https://toteupad.nerdworks.dev/device.html",
     "icon": "https://icons.duckduckgo.com/ip3/toteupad.nerdworks.dev.ico",
     "slug": "tote-up-ad-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 822,
@@ -441,7 +443,8 @@
       "2025-12-10": 23,
       "2026-03-25": 22,
       "2026-03-29": 15,
-      "2026-04-16": 24
+      "2026-04-16": 24,
+      "2026-07-09": 1
     }
   },
   {
@@ -450,11 +453,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/testv6.nerdworks.dev.ico",
     "slug": "nerdworks-testv6",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "96.10%",
+    "uptimeYear": "96.12%",
     "time": 3559,
     "timeDay": 1145,
     "timeWeek": 3483,
