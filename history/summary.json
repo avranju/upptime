@@ -343,17 +343,17 @@
     "url": "https://writebook.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/writebook.nerdworks.dev.ico",
     "slug": "nerdworks-writebook",
-    "status": "up",
+    "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.01%",
-    "time": 1400,
-    "timeDay": 1140,
-    "timeWeek": 1293,
-    "timeMonth": 1350,
-    "timeYear": 1437,
+    "time": 1406,
+    "timeDay": 2649,
+    "timeWeek": 1651,
+    "timeMonth": 1438,
+    "timeYear": 1443,
     "dailyMinutesDown": {
       "2025-11-09": 476,
       "2025-11-08": 1440,
@@ -372,7 +372,8 @@
       "2026-04-21": 21,
       "2026-05-15": 209,
       "2026-06-07": 42,
-      "2026-07-02": 22
+      "2026-07-02": 22,
+      "2026-08-07": 1
     }
   },
   {
