@@ -4,17 +4,17 @@
     "url": "https://blogorama.nerdworks.in",
     "icon": "https://icons.duckduckgo.com/ip3/blogorama.nerdworks.in.ico",
     "slug": "nerdworks-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
-    "time": 1223,
+    "time": 1224,
     "timeDay": 1374,
     "timeWeek": 1355,
-    "timeMonth": 1431,
-    "timeYear": 1269,
+    "timeMonth": 1421,
+    "timeYear": 1270,
     "dailyMinutesDown": {
       "2025-12-10": 26,
       "2026-03-25": 34,
@@ -22,7 +22,8 @@
       "2026-04-22": 25,
       "2026-07-10": 522,
       "2026-07-09": 212,
-      "2026-08-17": 40
+      "2026-08-17": 40,
+      "2026-10-07": 19
     }
   },
   {
@@ -39,8 +40,8 @@
     "time": 1042,
     "timeDay": 924,
     "timeWeek": 860,
-    "timeMonth": 908,
-    "timeYear": 1036,
+    "timeMonth": 911,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2026-04-14": 26
     }
@@ -59,7 +60,7 @@
     "time": 939,
     "timeDay": 853,
     "timeWeek": 863,
-    "timeMonth": 909,
+    "timeMonth": 904,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2026-02-19": 24,
@@ -83,7 +84,7 @@
     "time": 924,
     "timeDay": 884,
     "timeWeek": 881,
-    "timeMonth": 914,
+    "timeMonth": 912,
     "timeYear": 953,
     "dailyMinutesDown": {
       "2025-11-30": 24,
@@ -105,7 +106,7 @@
     "time": 946,
     "timeDay": 902,
     "timeWeek": 870,
-    "timeMonth": 907,
+    "timeMonth": 903,
     "timeYear": 981,
     "dailyMinutesDown": {
       "2026-04-14": 23
@@ -125,8 +126,8 @@
     "time": 761,
     "timeDay": 709,
     "timeWeek": 728,
-    "timeMonth": 712,
-    "timeYear": 750,
+    "timeMonth": 711,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-11-30": 39,
       "2026-01-19": 20,
@@ -152,8 +153,8 @@
     "time": 765,
     "timeDay": 797,
     "timeWeek": 730,
-    "timeMonth": 697,
-    "timeYear": 754,
+    "timeMonth": 698,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2025-11-30": 39,
       "2026-01-19": 20,
@@ -179,7 +180,7 @@
     "time": 749,
     "timeDay": 771,
     "timeWeek": 705,
-    "timeMonth": 703,
+    "timeMonth": 706,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2025-11-30": 39,
@@ -207,8 +208,8 @@
     "time": 753,
     "timeDay": 728,
     "timeWeek": 701,
-    "timeMonth": 707,
-    "timeYear": 739,
+    "timeMonth": 710,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2025-11-30": 39,
       "2026-01-19": 20,
@@ -234,8 +235,8 @@
     "time": 1124,
     "timeDay": 1035,
     "timeWeek": 1089,
-    "timeMonth": 1168,
-    "timeYear": 1206,
+    "timeMonth": 1162,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2025-11-30": 31,
       "2026-04-02": 26,
@@ -256,8 +257,8 @@
     "time": 1069,
     "timeDay": 1078,
     "timeWeek": 1137,
-    "timeMonth": 1153,
-    "timeYear": 1140,
+    "timeMonth": 1146,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2026-03-12": 27,
       "2026-04-13": 25,
@@ -279,8 +280,8 @@
     "time": 2332,
     "timeDay": 3361,
     "timeWeek": 3136,
-    "timeMonth": 3375,
-    "timeYear": 2534,
+    "timeMonth": 3386,
+    "timeYear": 2537,
     "dailyMinutesDown": {
       "2025-11-30": 24,
       "2026-01-30": 15,
@@ -305,7 +306,7 @@
     "time": 1333,
     "timeDay": 1258,
     "timeWeek": 1301,
-    "timeMonth": 1394,
+    "timeMonth": 1386,
     "timeYear": 1390,
     "dailyMinutesDown": {
       "2026-03-12": 27,
@@ -327,7 +328,7 @@
     "time": 1160,
     "timeDay": 1394,
     "timeWeek": 1359,
-    "timeMonth": 1385,
+    "timeMonth": 1386,
     "timeYear": 1160,
     "dailyMinutesDown": {
       "2025-11-30": 24,
@@ -340,7 +341,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/writebook.nerdworks.dev.ico",
     "slug": "nerdworks-writebook",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -348,8 +349,8 @@
     "time": 1411,
     "timeDay": 1326,
     "timeWeek": 1328,
-    "timeMonth": 1334,
-    "timeYear": 1492,
+    "timeMonth": 1328,
+    "timeYear": 1493,
     "dailyMinutesDown": {
       "2025-11-09": 476,
       "2025-11-08": 1440,
@@ -387,8 +388,8 @@
     "time": 194,
     "timeDay": 222,
     "timeWeek": 140,
-    "timeMonth": 147,
-    "timeYear": 181,
+    "timeMonth": 149,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2025-11-30": 24
     }
@@ -398,23 +399,24 @@
     "url": "https://remark42.nerdworks.dev/api/v1/config?site=remark",
     "icon": "https://icons.duckduckgo.com/ip3/remark42.nerdworks.dev.ico",
     "slug": "remark42-comments-on-musings-blog",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.85%",
     "time": 925,
     "timeDay": 1054,
     "timeWeek": 1089,
-    "timeMonth": 1137,
-    "timeYear": 964,
+    "timeMonth": 1133,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2025-11-30": 31,
       "2025-12-10": 24,
       "2026-03-29": 15,
       "2026-07-10": 504,
-      "2026-07-09": 202
+      "2026-07-09": 202,
+      "2026-10-07": 10
     }
   },
   {
@@ -422,16 +424,16 @@
     "url": "https://toteupad.nerdworks.dev/device.html",
     "icon": "https://icons.duckduckgo.com/ip3/toteupad.nerdworks.dev.ico",
     "slug": "tote-up-ad-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 893,
     "timeDay": 1020,
     "timeWeek": 1087,
-    "timeMonth": 1145,
+    "timeMonth": 1141,
     "timeYear": 926,
     "dailyMinutesDown": {
       "2025-11-30": 24,
@@ -440,7 +442,8 @@
       "2026-03-29": 15,
       "2026-04-16": 24,
       "2026-07-10": 485,
-      "2026-07-09": 192
+      "2026-07-09": 192,
+      "2026-10-07": 1
     }
   },
   {
@@ -449,15 +452,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/testv6.nerdworks.dev.ico",
     "slug": "nerdworks-testv6",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "97.53%",
+    "uptimeYear": "97.54%",
     "time": 2877,
     "timeDay": 1153,
     "timeWeek": 1080,
-    "timeMonth": 2257,
+    "timeMonth": 2291,
     "timeYear": 2877,
     "dailyMinutesDown": {
       "2026-02-25": 55,
