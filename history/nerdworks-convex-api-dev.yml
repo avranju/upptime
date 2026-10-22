@@ -1,7 +1,7 @@
 url: https://dev.convex.api.nerdworks.dev
-status: up
-code: 200
-responseTime: 698
-lastUpdated: 2026-10-22T01:04:25.247Z
+status: down
+code: 502
+responseTime: 659
+lastUpdated: 2026-10-22T07:11:56.271Z
 startTime: 2025-07-07T04:23:34.047Z
 generator: Upptime <https://github.com/upptime/upptime>
