@@ -119,16 +119,16 @@
     "url": "https://convex.api.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/convex.api.nerdworks.dev.ico",
     "slug": "nerdworks-convex-api-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "99.16%",
     "time": 759,
-    "timeDay": 715,
-    "timeWeek": 721,
-    "timeMonth": 742,
+    "timeDay": 744,
+    "timeWeek": 727,
+    "timeMonth": 743,
     "timeYear": 743,
     "dailyMinutesDown": {
       "2025-11-30": 39,
@@ -139,7 +139,8 @@
       "2026-04-14": 1440,
       "2026-05-06": 54,
       "2026-06-11": 96,
-      "2026-10-22": 643
+      "2026-10-22": 643,
+      "2026-11-06": 2
     }
   },
   {
@@ -147,16 +148,16 @@
     "url": "https://convex.dashboard.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/convex.dashboard.nerdworks.dev.ico",
     "slug": "nerdworks-convex-dashboard-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "99.16%",
     "time": 766,
-    "timeDay": 715,
-    "timeWeek": 761,
-    "timeMonth": 790,
+    "timeDay": 742,
+    "timeWeek": 762,
+    "timeMonth": 789,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2025-11-30": 39,
@@ -167,7 +168,8 @@
       "2026-04-14": 1440,
       "2026-05-06": 54,
       "2026-06-11": 96,
-      "2026-10-22": 643
+      "2026-10-22": 643,
+      "2026-11-06": 1
     }
   },
   {
@@ -175,16 +177,16 @@
     "url": "https://dev.convex.api.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dev.convex.api.nerdworks.dev.ico",
     "slug": "nerdworks-convex-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "99.16%",
     "time": 746,
-    "timeDay": 668,
-    "timeWeek": 706,
-    "timeMonth": 731,
+    "timeDay": 726,
+    "timeWeek": 716,
+    "timeMonth": 733,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2025-11-30": 39,
@@ -196,7 +198,8 @@
       "2026-04-14": 1440,
       "2026-05-06": 54,
       "2026-06-11": 96,
-      "2026-10-22": 643
+      "2026-10-22": 643,
+      "2026-11-06": 1
     }
   },
   {
@@ -204,15 +207,15 @@
     "url": "https://dev.convex.dashboard.nerdworks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dev.convex.dashboard.nerdworks.dev.ico",
     "slug": "nerdworks-convex-dashboard-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "99.16%",
     "time": 752,
-    "timeDay": 675,
-    "timeWeek": 755,
+    "timeDay": 721,
+    "timeWeek": 757,
     "timeMonth": 755,
     "timeYear": 735,
     "dailyMinutesDown": {
@@ -224,7 +227,8 @@
       "2026-04-14": 1440,
       "2026-05-06": 53,
       "2026-06-11": 95,
-      "2026-10-22": 643
+      "2026-10-22": 643,
+      "2026-11-06": 1
     }
   },
   {
@@ -351,7 +355,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "99.10%",
     "time": 1412,
     "timeDay": 1109,
     "timeWeek": 1337,
